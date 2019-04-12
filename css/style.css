@@ -135,7 +135,7 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: url("../images/MarieCurie.jpg") center center no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg") center center no-repeat;
   background-size: cover;
 }
 
