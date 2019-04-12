@@ -134,33 +134,37 @@ a:hover, a:active, a:focus {
   margin-left: 20px;
 }
 
-.timeline-item:nth-child(1) .timeline-img-header {
+ind=1
+
+.timeline-item:nth-child(ind) .timeline-img-header {
   background: url("../images/MarieCurie.jpg") center center no-repeat;
   background-size: cover;
-}
+}ind=ind+1
 
-.timeline-item:nth-child(1) .timeline-img-header {
+.timeline-item:nth-child(ind) .timeline-img-header {
   background: url("../images/ElisaLeonida.png") center center no-repeat;
   background-size: cover;
-}
+}ind=ind+1
 
-.timeline-item:nth-child(2) .timeline-img-header {
+.timeline-item:nth-child(ind) .timeline-img-header {
   background: url("../images/ElisaBachofen.png") center center no-repeat;
   background-size: cover;
-}
+}ind=ind+1
 
-.timeline-item:nth-child(3) .timeline-img-header {
+.timeline-item:nth-child(ind) .timeline-img-header {
   background: url("../images/PilarCareaga.png") center center no-repeat;
   background-size: cover;
-}
-.timeline-item:nth-child(4) .timeline-img-header {
+}ind=ind+1
+
+.timeline-item:nth-child(ind) .timeline-img-header {
   background: url("../images/Portugal.png") center center no-repeat;
   background-size: cover;
-}
-.timeline-item:nth-child(5) .timeline-img-header {
+}ind=ind+1
+
+.timeline-item:nth-child(ind) .timeline-img-header {
   background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Laura_Tremosa.jpg/600px-Laura_Tremosa.jpg") center center no-repeat;
   background-size: cover;
-}
+}ind=ind+1
 
 
 .timeline-img-header {
