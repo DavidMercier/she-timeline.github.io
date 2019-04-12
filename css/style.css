@@ -135,6 +135,11 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
+  background: url("../images/MarieCurie.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.timeline-item:nth-child(1) .timeline-img-header {
   background: url("../images/ElisaLeonida.png") center center no-repeat;
   background-size: cover;
 }
