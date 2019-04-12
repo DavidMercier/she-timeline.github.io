@@ -164,6 +164,10 @@ a:hover, a:active, a:focus {
   background-size: cover;
 }
 
+.timeline-item:nth-child(7) .timeline-img-header {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/4/4a/Valentina_Tereshkova_%282017-03-06%29.jpg") center center no-repeat;
+  background-size: cover;
+}
 
 .timeline-img-header {
   height: 200px;
