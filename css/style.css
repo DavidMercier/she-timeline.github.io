@@ -169,6 +169,16 @@ a:hover, a:active, a:focus {
   background-size: cover;
 }
 
+.timeline-item:nth-child(8) .timeline-img-header {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg") 0% 30% no-repeat;
+  background-size: cover;
+}
+
+.timeline-item:nth-child(9) .timeline-img-header {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/6/6c/Vera_Rubin.jpg") 0% 30% no-repeat;
+  background-size: cover;
+}
+
 .timeline-img-header {
   height: 200px;
   position: relative;
