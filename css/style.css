@@ -125,7 +125,7 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Jeanne_Barret.jpg") center center no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Jeanne_Barret.jpg") top top no-repeat;
   background-size: cover;
 }
 
