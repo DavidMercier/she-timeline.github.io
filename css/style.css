@@ -125,56 +125,61 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/b/b7/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850_-_cropped.png") center center no-repeat;
+  background: url("https://en.wikipedia.org/wiki/Jeanne_Baret#/media/File:Jeanne_Barret.jpg") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(2) .timeline-img-header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg") center center no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/b/b7/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850_-_cropped.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(3) .timeline-img-header {
-  background: url("../images/ElisaLeonida.png") center center no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(4) .timeline-img-header {
-  background: url("../images/ElisaBachofen.png") center center no-repeat;
+  background: url("../images/ElisaLeonida.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(5) .timeline-img-header {
-  background: url("../images/PilarCareaga.png") center center no-repeat;
+  background: url("../images/ElisaBachofen.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(6) .timeline-img-header {
-  background: url("../images/Portugal.png") center center no-repeat;
+  background: url("../images/PilarCareaga.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(7) .timeline-img-header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Laura_Tremosa.jpg/600px-Laura_Tremosa.jpg") center center no-repeat;
+  background: url("../images/Portugal.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(8) .timeline-img-header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/4/4a/Valentina_Tereshkova_%282017-03-06%29.jpg") 0% 30% no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Laura_Tremosa.jpg/600px-Laura_Tremosa.jpg") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(9) .timeline-img-header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg") 0% 30% no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/4/4a/Valentina_Tereshkova_%282017-03-06%29.jpg") 0% 30% no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(10) .timeline-img-header {
-  background: url("https://upload.wikimedia.org/wikipedia/commons/6/6c/Vera_Rubin.jpg") 0% 30% no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg") 0% 30% no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(11) .timeline-img-header {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/6/6c/Vera_Rubin.jpg") 0% 30% no-repeat;
+  background-size: cover;
+}
+
+.timeline-item:nth-child(12) .timeline-img-header {
   background: url("https://upload.wikimedia.org/wikipedia/commons/4/4e/Kathryn_D._Sullivan_NOAA_Leadership.jpg") 0% 30% no-repeat;
   background-size: cover;
 }
