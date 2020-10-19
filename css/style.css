@@ -135,7 +135,7 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(3) .timeline-img-header {
-  background: url("https://en.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9#/media/File:Alice_Guy.jpg") center center no-repeat;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/d/d4/Alice_Guy.jpg") center center no-repeat;
   background-size: cover;
 }
 
